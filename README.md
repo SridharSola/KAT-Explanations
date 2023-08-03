@@ -4,4 +4,4 @@ This repository contains code for my ongoing Master's research project and will 
 
 Code on this repository:
 
-- Simulation of ad hoc teamwork in the fort attack doman.
+- Simulation of ad hoc teamwork in the fort attack domain.
